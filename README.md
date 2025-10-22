@@ -356,12 +356,11 @@ int main() {
 
 ## OUTPUT:
 ### Unrolling8
-![image](https://github.com/user-attachments/assets/5cf0a570-3b18-40b1-a62e-b7782eba9d17)
 
 
 ### Unrolling16
-![image](https://github.com/user-attachments/assets/f3c1e7f0-683a-4599-a8ba-bb538181a8d5)
+
 
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that `Unrolling16` has executed with less elapsed time than `Unrolling8` with blocks `1048576`,`1048576`.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that `Unrolling16` has executed with less elapsed time than `Unrolling8` with blocks `2139353471`,`2139353471`.
