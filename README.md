@@ -357,6 +357,7 @@ int main() {
 ## OUTPUT:
 ### Unrolling8
 
+![17611272030544486879597057801210](https://github.com/user-attachments/assets/04555c55-88cb-4740-b2a0-e4c97a93000f)
 
 ### Unrolling16
 
